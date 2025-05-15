@@ -1,0 +1,5 @@
+asyncio
+re
+sqlite3
+websockets
+telethon
